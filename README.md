@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
 
@@ -76,3 +77,7 @@ You are free to take my `.tex` file and modify it to create your own resume. Ple
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
 Good luck!
+=======
+# my_resume
+This is a repository to save my resume.
+>>>>>>> 878cddcabd5de4a8ddd7be82feda0d94006b1e97
