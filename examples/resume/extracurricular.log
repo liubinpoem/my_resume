@@ -1,0 +1,18 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdftex 2019.3.4)  26 MAR 2019 22:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**extracurricular.tex
+(./extracurricular.tex
+./extracurricular.tex:4: Undefined control sequence.
+l.4 \vspace
+           {-5pt}
+? 
+./extracurricular.tex:4: Emergency stop.
+l.4 \vspace
+           {-5pt}
+End of file on the terminal!
+
+./extracurricular.tex:4:  ==> Fatal error occurred, no output PDF file produced
+!
